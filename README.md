@@ -11,5 +11,5 @@ With this Program you can analyse real world data of bike rental
 bikeshare.py, new_york_city.csv, chicago.csv, washington.csv
 
 ### Credits
-This repo is inspired by Udacity
+This repo is inspired by Udacity and it is inspired by me
 
